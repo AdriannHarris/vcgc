@@ -1,0 +1,10 @@
+1 Explain what a terminal is in your own words
+The terminal is a command line computer operating system that allows the user to put input and outputs to make changes and take control of the operating system.
+
+
+2 What is the difference between Git and Github?
+Git is a version control system that helps you to make multiple versions of a piece of code that you move into a file in a git repo while GitHub is more of a location for the repo to be uploaded.
+
+
+3 Why do we use Github?
+We use Github as an external tool for our terminal and to help coordinate with others.
